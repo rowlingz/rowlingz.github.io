@@ -21,9 +21,3 @@
 
 ### 🌟 添加微信
 ![weChat](img/weChat.jpeg)
-
-
-![weChat2](img/weChat2.jpeg)
-``
-
-![weChat3](img/WechatIMG906.jpeg)
